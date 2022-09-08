@@ -1,0 +1,14 @@
+node_modules
+dist
+*.d.ts
+compiled
+*.js
+fixtures
+*.md
+*.yaml
+*.less
+.turbo
+.dite
+lerna.json
+pnpm-lock.yaml
+*.test.ts
