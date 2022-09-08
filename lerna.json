@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    "docs"
   ],
   "useNx": false,
   "version": "0.0.0"
