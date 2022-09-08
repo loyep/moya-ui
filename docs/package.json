@@ -1,0 +1,14 @@
+{
+  "name": "@moyaui/docs",
+  "private": true,
+  "scripts": {
+    "build": "vitepress build"
+  },
+  "dependencies": {
+    "vue": "^3.2.39"
+  },
+  "devDependencies": {
+    "vite": "^2.9.0",
+    "vitepress": "^1.0.0-alpha.13"
+  }
+}

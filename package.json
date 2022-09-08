@@ -1,0 +1,13 @@
+{
+  "name": "moya-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "pnpm run -C docs build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
