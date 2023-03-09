@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "lerna": "^5.1.5",
-    "vite": "^3.1.0"
+    "vite": "^4.0.0"
   },
   "keywords": [],
   "author": "",
